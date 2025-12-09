@@ -7,7 +7,7 @@ This project rebrands and extends Phi‑1 for custom use within NexionOS and rel
 
 ## Upstream Attribution
 - Original model: **Phi‑1**
-- Source: [https://github.com/microsoft/phi-1](https://github.com/microsoft/phi-1)
+- Source: [https://huggingface.co/microsoft/phi-1](https://huggingface.co/microsoft/phi-1)
 - License: MIT
 
 All rights to the original Phi‑1 code and weights remain with their respective authors.  
